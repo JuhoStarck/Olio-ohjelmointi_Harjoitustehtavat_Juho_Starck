@@ -1,1 +1,1 @@
-# Olio-ohjelmointi_Harjoitustehtavat_Juho_Starck
+# Olio-ohjelmointi_Harjotukset
