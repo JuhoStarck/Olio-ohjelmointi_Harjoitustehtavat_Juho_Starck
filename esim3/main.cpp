@@ -9,16 +9,16 @@ int main()
     int num;
     int result;
     int n, k;
-    // cout << "Lasketaan kertoma: " << endl;
-    // cout << "Anna positiivinen kokonaisluku: " << endl;
-    // cin >> num;
-    // result = factorial(num);
-    // if(result == -1){
-    //     cout << "Kertomaa ei voi laskea negatiivisella luvulla" << endl;
-    // }
-    // else{
-    //     cout << "luvun " << num << " kertoma = " << result << endl;
-    // }
+    cout << "Lasketaan kertoma: " << endl;
+    cout << "Anna positiivinen kokonaisluku: " << endl;
+    cin >> num;
+    result = factorial(num);
+    if(result == -1){
+        cout << "Kertomaa ei voi laskea negatiivisella luvulla" << endl;
+    }
+    else{
+        cout << "luvun " << num << " kertoma = " << result << endl;
+    }
 
     cout << "Anna n " << endl;
     cin >> n;
