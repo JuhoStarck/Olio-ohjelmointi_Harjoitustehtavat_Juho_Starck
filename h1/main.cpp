@@ -29,4 +29,6 @@ int main()
 
     // cout << a << " + " << b << " = " << a + b << endl;
     // cout << fixed << setprecision(2) << a << " / " << b << " = " << (float)a / b << endl;
+
+    return 0;
 }
